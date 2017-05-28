@@ -40,68 +40,68 @@ Style: Huge,Ravie,50,&H003D70E7,&H000000FF,&H001B1797,&H001B1797,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.60,0:00:03.98,1JPT,,0,0,0,,Son mascotas con ojos como joyas, las Jewelpets
-Dialogue: 0,0:00:04.35,0:00:06.90,1JPT,,0,0,0,,Nacidas para amigarse con los humanos
+Dialogue: 0,0:00:00.60,0:00:03.98,1JPT,,0,0,0,,Son mascotas con los ojos como joyas, las Jewelpets
+Dialogue: 0,0:00:04.35,0:00:06.90,1JPT,,0,0,0,,Nacidas para ser amigos de los humanos
 Dialogue: 0,0:00:07.36,0:00:10.94,1JPT,,0,0,0,,Ahora, vayan y aprendan el arte magico de brindarle alegria a los humanos
 Dialogue: 0,0:00:11.03,0:00:11.86,1JPT,,0,0,0,,Si~
 Dialogue: 0,0:00:12.07,0:00:13.45,1JPT,,0,0,0,,Con brillantes corazones
 Dialogue: 0,0:00:13.74,0:00:15.28,1JPT,,0,0,0,,nosotros las Jewelpets
 Dialogue: 0,0:00:15.66,0:00:16.70,1JPT,,0,0,0,,Brilla, brilla
-Dialogue: 0,0:00:17.49,0:00:18.95,1JPT,,0,0,0,,hagamos el Jewelflash
+Dialogue: 0,0:00:17.49,0:00:18.95,1JPT,,0,0,0,,hagamos el Jewelpets
 Dialogue: 0,0:00:18.99,0:00:20.45,1JPT,,0,0,0,,y hagamos de todos toditos muy
 Dialogue: 0,0:00:21.08,0:00:22.41,1JPT,,0,0,0,,¡felices!
 Dialogue: 0,0:00:22.96,0:00:25.96,1JPT,,0,0,0,,Todas y cada una de las chicas son unas grandes magas
 Dialogue: 0,0:00:26.04,0:00:28.96,1JPT,,0,0,0,,Twinkle, twinkle, Jewel Flash
 Dialogue: 0,0:00:31.21,0:00:33.63,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Tinkle
 Dialogue: 0,0:00:31.21,0:00:33.63,OPJPT,,0,0,0,,{\pos(320,26)}Brilla {\fs25\b0}☆ {\fs35\b1}Feliz
-Dialogue: 0,0:00:34.26,0:00:37.18,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} tobikiri no
+Dialogue: 0,0:00:34.26,0:00:37.18,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} magnífico
 Dialogue: 0,0:00:34.26,0:00:37.18,OPJPT,,0,0,0,,{\pos(320,26)}Feliz {\fs25\b0}☆ {\fs35\b1}Feliz {\fs25\b0}☆ {\fs35\b1} quiero ver
-Dialogue: 0,0:00:37.18,0:00:39.68,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} yume o mite
+Dialogue: 0,0:00:37.18,0:00:39.68,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} Sueño y se ve
 Dialogue: 0,0:00:37.18,0:00:39.68,OPJPT,,0,0,0,,{\pos(320,26)}Feliz {\fs25\b0}☆ {\fs35\b1}Feliz {\fs25\b0}☆ {\fs35\b1} un hermoso sueño
 Dialogue: 0,0:00:40.14,0:00:42.64,OPJPT,,0,0,0,,{\pos(320,476)}Tonde tonde mirai e
 Dialogue: 0,0:00:40.14,0:00:42.64,OPJPT,,0,0,0,,{\pos(320,26)}Volando, volando hacia el futuro
-Dialogue: 0,0:00:43.10,0:00:46.19,OPJPT,,0,0,0,,{\pos(320,476)}Ready Go Ready Go Ready Go
+Dialogue: 0,0:00:43.10,0:00:46.19,OPJPT,,0,0,0,,{\pos(320,476)}listos va vamos, listos va vamos
 Dialogue: 0,0:00:43.10,0:00:46.19,OPJPT,,0,0,0,,{\pos(320,26)}Listos va vamos, Listos va vamos
 Dialogue: 0,0:00:46.40,0:00:48.27,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Tinkle!
 Dialogue: 0,0:00:46.40,0:00:48.27,OPJPT,,0,0,0,,{\pos(320,26)}¡Brilla {\fs25\b0}☆ {\fs35\b1}Feliz!
-Dialogue: 0,0:00:47.73,0:00:53.49,Critter-Subs,,0,0,0,,{\fad(800,0)\pos(319,410)}Presented by Critter-Subs
-Dialogue: 0,0:00:53.49,0:00:58.28,OPJPT,,0,0,0,,{\pos(320,476)}Onna no ko wa dare mo, sekaijuu de
+Dialogue: 0,0:00:47.73,0:00:53.49,Critter-Subs,,0,0,0,,{\fad(800,0)\pos(319,410)}Presentado por Critter-Subs
+Dialogue: 0,0:00:53.49,0:00:58.28,OPJPT,,0,0,0,,{\pos(320,476)}Todo el mundo que esta mujer, Además en todo el mundo
 Dialogue: 0,0:00:53.49,0:00:58.28,OPJPT,,0,0,0,,{\pos(320,26)}Cada niña en el mundo
-Dialogue: 0,0:00:59.66,0:01:03.50,OPJPT,,0,0,0,,{\pos(320,476)}tatta hitotsu no Jewel yo
+Dialogue: 0,0:00:59.66,0:01:03.50,OPJPT,,0,0,0,,{\pos(320,476)}eres como una joya ninguna de las joyas de hace años
 Dialogue: 0,0:00:59.66,0:01:03.50,OPJPT,,0,0,0,,{\pos(320,26)}es como una joya
-Dialogue: 0,0:01:05.41,0:01:10.13,OPJPT,,0,0,0,,{\pos(320,476)}Jishin o nakushitara, kagami no naka
+Dialogue: 0,0:01:05.41,0:01:10.13,OPJPT,,0,0,0,,{\pos(320,476)}Si ha perdido su terreno, entre el espejo
 Dialogue: 0,0:01:05.41,0:01:10.13,OPJPT,,0,0,0,,{\pos(320,26)}Cuando su coraje pierden, hacia un espejo van
-Dialogue: 0,0:01:11.63,0:01:16.51,OPJPT,,0,0,0,,{\pos(320,476)}Jumon tonae, hashiridasou
+Dialogue: 0,0:01:11.63,0:01:16.51,OPJPT,,0,0,0,,{\pos(320,476)}Hechizo, de Hashiridaso
 Dialogue: 0,0:01:11.63,0:01:16.51,OPJPT,,0,0,0,,{\pos(320,26)}en el cual un hechizo en si mismas dan y a correr empiezan
 Dialogue: 0,0:01:16.55,0:01:19.30,OPJPT,,0,0,0,,{\pos(320,476)}Zenshin! Henshin!
 Dialogue: 0,0:01:16.55,0:01:19.30,OPJPT,,0,0,0,,{\pos(320,26)}¡Hacia adelante! ¡Transoformandose!
 Dialogue: 0,0:01:19.51,0:01:22.22,OPJPT,,0,0,0,,{\pos(320,476)}Tension agemasho!
 Dialogue: 0,0:01:19.51,0:01:22.22,OPJPT,,0,0,0,,{\pos(320,26)}¡Aumentando la tension!
-Dialogue: 0,0:01:22.97,0:01:29.40,OPJPT,,0,0,0,,{\pos(320,476)}Sono yasashisa, yuuki ga mahou ni naru yo
+Dialogue: 0,0:01:22.97,0:01:29.40,OPJPT,,0,0,0,,{\pos(320,476)}La bondad de, Yuki es mágica
 Dialogue: 0,0:01:22.97,0:01:29.40,OPJPT,,0,0,0,,{\pos(320,26)}Con esa amabilidad su coraje en magia convierten
-Dialogue: 0,0:01:30.73,0:01:33.53,OPJPT,,0,0,0,,{\pos(320,476)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} omoikitte
+Dialogue: 0,0:01:30.73,0:01:33.53,OPJPT,,0,0,0,,{\pos(320,476)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} Dar el paso decisivo
 Dialogue: 0,0:01:30.73,0:01:33.53,OPJPT,,0,0,0,,{\pos(320,26)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} hacia adelante
 Dialogue: 0,0:01:33.53,0:01:36.24,OPJPT,,0,0,0,,{\pos(320,476)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} habataite
 Dialogue: 0,0:01:33.53,0:01:36.24,OPJPT,,0,0,0,,{\pos(320,26)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} aleteando sus alas
-Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,476)}Kitto kuru Miracle
-Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,26)}De seguro un milagro sucedera
-Dialogue: 0,0:01:39.49,0:01:41.08,OPJPT,,0,0,0,,{\pos(320,476)}Ready Go Ready Go
-Dialogue: 0,0:01:39.49,0:01:41.08,OPJPT,,0,0,0,,{\pos(320,26)}Ready Go Ready Go
-Dialogue: 0,0:01:41.08,0:01:42.08,OPJPT,,0,0,0,,{\pos(320,476)}Chance tourai!
-Dialogue: 0,0:01:41.08,0:01:42.08,OPJPT,,0,0,0,,{\pos(320,26)}¡El momento es ahora!
-Dialogue: 0,0:01:42.33,0:01:45.33,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} tobikkiri no
-Dialogue: 0,0:01:42.33,0:01:45.33,OPJPT,,0,0,0,,{\pos(320,26)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} quiero ver
-Dialogue: 0,0:01:45.33,0:01:47.83,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} yume o mite
+Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,476)}Estoy seguro de habra un milagro
+Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,26)}De seguro de sucedera un milagro 
+Dialogue: 0,0:01:39.49,0:01:41.08,OPJPT,,0,0,0,,{\pos(320,476)}listo va vamos listo va vamos
+Dialogue: 0,0:01:39.49,0:01:41.08,OPJPT,,0,0,0,,{\pos(320,26)}listo va vamos listo vamos
+Dialogue: 0,0:01:41.08,0:01:42.08,OPJPT,,0,0,0,,{\pos(320,476)}Oportunidad tourai!
+Dialogue: 0,0:01:41.08,0:01:42.08,OPJPT,,0,0,0,,{\pos(320,26)}¡El momento es ahora!De los poderosos
+Dialogue: 0,0:01:42.33,0:01:45.33,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1}!De los poderosos
+Dialogue: 0,0:01:42.33,0:01:45.33,OPJPT,,0,0,0,,{\pos(320,26)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} quiero ver un
+Dialogue: 0,0:01:45.33,0:01:47.83,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} Sueño y se ve
 Dialogue: 0,0:01:45.33,0:01:47.83,OPJPT,,0,0,0,,{\pos(320,26)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} un hermoso sueño
-Dialogue: 0,0:01:48.29,0:01:50.79,OPJPT,,0,0,0,,{\pos(320,476)}Tonde tonde mirai e
+Dialogue: 0,0:01:48.29,0:01:50.79,OPJPT,,0,0,0,,{\pos(320,476)}Mira redonda y redonda
 Dialogue: 0,0:01:48.29,0:01:50.79,OPJPT,,0,0,0,,{\pos(320,26)}Volando, volando hacia el futuro
-Dialogue: 0,0:01:51.25,0:01:54.34,OPJPT,,0,0,0,,{\pos(320,476)}Ready Go Ready Go Ready Go
-Dialogue: 0,0:01:51.25,0:01:54.34,OPJPT,,0,0,0,,{\pos(320,26)}Ready Go Ready Go Ready Go
+Dialogue: 0,0:01:51.25,0:01:54.34,OPJPT,,0,0,0,,{\pos(320,476)}listo va vamos listo va vamos
+Dialogue: 0,0:01:51.25,0:01:54.34,OPJPT,,0,0,0,,{\pos(320,26)}listo va vamos listo va vamos
 Dialogue: 0,0:01:54.55,0:01:56.47,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Tinkle!
 Dialogue: 0,0:01:54.55,0:01:56.47,OPJPT,,0,0,0,,{\pos(320,26)}Happy {\fs25\b0}☆ {\fs35\b1}Tinkle!
-Dialogue: 0,0:02:00.72,0:02:04.35,1JPT,,0,0,0,,This program is presented by the following sponsors
-Dialogue: 0,0:02:09.94,0:02:19.36,RedJPT,,0,0,0,,{\fad(0,800)\pos(147,416)}A request from Ruby ♥
-Dialogue: 0,0:02:09.94,0:02:19.36,RedJPT,,0,0,0,,{\fad(0,600)\pos(315,476)}Please turn up the lights and don't sit too close to the screen.
+Dialogue: 0,0:02:00.72,0:02:04.35,1JPT,,0,0,0,,Este programa es presentado por los siguientes patrocinadores
+Dialogue: Lla solicitud de Ruby♥
+Dialogue: 0,0:02:09.94,0:02:19.36,RedJPT,,0,0,0,,{\fad(0,600)\pos(315,476)}Por favor, encienda las luces y no se siente demasiado cerca de la pantalla.
 Dialogue: 0,0:02:13.57,0:02:15.36,1JPT,,0,0,0,,{\pos(320,338)}Muy bien, ahora es mi turno
 Dialogue: 0,0:02:15.78,0:02:19.36,1JPT,,0,0,0,,{\pos(320,338)}Esta es una historia, que mi hermano me conto
 Dialogue: 0,0:02:30.08,0:02:34.75,1JPT,,0,0,0,,Las luces del salon de arte estaban encendidas, aun cuando no deberia haber habido nadie allí
@@ -182,7 +182,7 @@ Dialogue: 0,0:06:22.56,0:06:25.23,1JPT,,0,0,0,,Si sabias eso, ¿entonces para qu
 Dialogue: 0,0:06:25.23,0:06:28.15,1JPT,,0,0,0,,Demos la vuelta y terminemos con esta cosa de los siete misterios
 Dialogue: 0,0:06:28.24,0:06:28.70,1JPT,,0,0,0,,De ninguna manera
 Dialogue: 0,0:06:29.11,0:06:30.86,1JPT,,0,0,0,,¡Dame un descanso!
-Dialogue: 0,0:06:30.86,0:06:35.91,1JPT,,0,0,0,,¿Tienes idea alguna de cuan seguido tu \Nespiritu aventurero me ha metido en problemas?
+Dialogue: 0,0:06:30.86,0:06:35.91,1JPT,,0,0,0,,¿Tienes idea alguna de cuan seguido tu espiritu aventurero me ha metido en problemas?
 Dialogue: 0,0:06:36.41,0:06:37.95,1JPT,,0,0,0,,Me pregunto si estara bien
 Dialogue: 0,0:06:38.46,0:06:39.33,1JPT,,0,0,0,,Muy bien, vamos
 Dialogue: 0,0:06:39.71,0:06:40.58,1JPT,,0,0,0,,Si~
@@ -350,25 +350,25 @@ Dialogue: 0,0:13:44.63,0:13:46.34,1JPT,,0,0,0,,No son las mismas-desu~
 Dialogue: 0,0:13:47.47,0:13:50.64,1JPT,,0,0,0,,Este es el Director cuando tenia 148 años
 Dialogue: 0,0:13:50.97,0:13:54.56,1JPT,,0,0,0,,Y este es el Director en su cumpleaños numero 286-desu~
 Dialogue: 0,0:13:54.98,0:14:01.20,1JPT,,0,0,0,,Pusimos todo nuestro corazon en hacerselas para sus cumpleaños-dana
-Dialogue: 0,0:14:01.35,0:14:04.13,1JPT,,0,0,0,,The one for his one hundred twenty ninth was our masterpiece-desu~
-Dialogue: 0,0:14:04.13,0:14:04.80,1JPT,,0,0,0,,No way
-Dialogue: 0,0:14:05.02,0:14:09.57,1JPT,,0,0,0,,On the one hundred ninety forth we got his beard much better-dana
-Dialogue: 0,0:14:09.86,0:14:13.44,1JPT,,0,0,0,,But I think we got his hair better on the two hundred forth-desu
-Dialogue: 0,0:14:13.44,0:14:16.03,1JPT,,0,0,0,,But the roundness de his crystal ball is better on the one hundred first-dana
-Dialogue: 0,0:14:16.40,0:14:17.37,1JPT,,0,0,0,,Excuse us
-Dialogue: 0,0:14:22.48,0:14:24.03,1JPT,,0,0,0,,Fifth de the seven mysteries
-Dialogue: 0,0:14:24.18,0:14:27.49,1JPT,,0,0,0,,The piano that plays on it's own at night, that must be this one
-Dialogue: 0,0:14:27.59,0:14:29.32,1JPT,,0,0,0,,I don't hear a sound
+Dialogue: 0,0:14:01.35,0:14:04.13,1JPT,,0,0,0,,El uno para su ciento veinte noveno fue nuestra obra maestra-desu ~
+Dialogue: 0,0:14:04.13,0:14:04.80,1JPT,,0,0,0,,De ninguna manera
+Dialogue: 0,0:14:05.02,0:14:09.57,1JPT,,0,0,0,,En los ciento noventa y tantos conseguimos su barba mucho mejor-dana
+Dialogue: 0,0:14:09.86,0:14:13.44,1JPT,,0,0,0,,Pero creo que conseguimos su pelo mejor en los doscientos adelante-desu
+Dialogue: 0,0:14:13.44,0:14:16.03,1JPT,,0,0,0,,Pero la redondez de su bola de cristal es mejor en los cien primeros-dana
+Dialogue: 0,0:14:16.40,0:14:17.37,1JPT,,0,0,0,,Perdonanos
+Dialogue: 0,0:14:22.48,0:14:24.03,1JPT,,0,0,0,,Quinto de los siete misterios
+Dialogue: 0,0:14:24.18,0:14:27.49,1JPT,,0,0,0,,El piano que juega por su cuenta en la noche, que debe ser éste
+Dialogue: 0,0:14:27.59,0:14:29.32,1JPT,,0,0,0,,No escucho el sonido
 Dialogue: 0,0:14:29.37,0:14:30.45,1JPT,,0,0,0,,Shhht!
-Dialogue: 0,0:14:30.45,0:14:32.13,1JPT,,0,0,0,,Let's just wait for it-nyan
-Dialogue: 0,0:14:32.13,0:14:35.56,1JPT,,0,0,0,,Seriously what point is there in it playing when nobody's around to hear it?
-Dialogue: 0,0:14:35.73,0:14:39.19,1JPT,,0,0,0,,I bet it's a ghost that once wanted to be a pianist
-Dialogue: 0,0:14:39.36,0:14:42.82,1JPT,,0,0,0,,So then why doesn't he play when he finally got an audience?
+Dialogue: 0,0:14:30.45,0:14:32.13,1JPT,,0,0,0,,Vamos a esperar a que-nyan
+Dialogue: 0,0:14:32.13,0:14:35.56,1JPT,,0,0,0,,En serio, ¿qué punto hay en él jugando cuando nadie está cerca de escucharlo?
+Dialogue: 0,0:14:35.73,0:14:39.19,1JPT,,0,0,0,,Apuesto a que es un fantasma que alguna vez quiso ser un pianista
+Dialogue: 0,0:14:39.36,0:14:42.82,1JPT,,0,0,0,,Entonces, ¿por qué no toca cuando finalmente consiguió una audiencia?
 Dialogue: 0,0:14:42.87,0:14:43.96,1JPT,,0,0,0,,Nya~
 Dialogue: 0,0:14:48.08,0:14:50.20,1JPT,,0,0,0,,Hey-hey-hey~hey
-Dialogue: 0,0:14:58.42,0:15:02.18,1JPT,,0,0,0,,That sounds like a guitar playing in the empty music room-dachi
-Dialogue: 0,0:15:02.18,0:15:04.40,1JPT,,0,0,0,,A ghost! A ghost is playing it-wan
-Dialogue: 0,0:15:04.40,0:15:06.32,1JPT,,0,0,0,,It's one de the mysteries-geroppa
+Dialogue: 0,0:14:58.42,0:15:02.18,1JPT,,0,0,0,,Eso suena como una guitarra tocando en la sala de música vacía-dachi
+Dialogue: 0,0:15:02.18,0:15:04.40,1JPT,,0,0,0,,¡Un fantasma! Un fantasma lo está jugando-wan
+Dialogue: 0,0:15:04.40,0:15:06.32,1JPT,,0,0,0,,Es uno de los misterios-geroppa
 Dialogue: 0,0:15:08.62,0:15:10.03,1JPT,,0,0,0,,Bravo
 Dialogue: 0,0:15:10.03,0:15:10.72,1JPT,,0,0,0,,What do you say?
 Dialogue: 0,0:15:10.79,0:15:14.86,1JPT,,0,0,0,,Now you can call me a musician, I performed for somebody and even got standing ovations
